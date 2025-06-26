@@ -1,0 +1,10 @@
+{
+  "logId": "790db164-2f1b-49be-b574-b4cd886c366a",
+  "status": "log created successfully",
+  "logDetails": {
+    "stack": "frontend",
+    "level": "debug",
+    "package": "component",
+    "message": "received string, expected bool"
+  }
+}
